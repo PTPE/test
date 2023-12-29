@@ -1,7 +1,3 @@
 export default function Page() {
-  return (
-    <h1>
-      <span>Hello</span>Hello, confilct blue!
-    </h1>
-  );
+  return <h1>heading</h1>;
 }
