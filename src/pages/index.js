@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Hello, confilct cat!</h1>;
+  return <h1>Hello, confilct red!</h1>;
 }
